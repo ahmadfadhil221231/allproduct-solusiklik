@@ -18,7 +18,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="canonical" href="https://solusiklik.co.id/wp-admin/asset/" />
   <link rel="shortcut icon" href="https://i.imgur.com/w6nNNEj.png" />
-  <link rel="amphtml" href="https://amp-herototo.web.app/"/>
+  <link rel="amphtml" href="https://ampherototo-terbaru.web.app/"/>
   <!-- start preload -->
   <link rel="preload" href="https://i.imgur.com/gk4evjk.png" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
