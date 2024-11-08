@@ -7,7 +7,7 @@
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
-  <meta name="og:url" content="https://solusiklik.co.id/wp-admin/asset/"/>
+  <meta name="og:url" content="https://solusiklik.co.id/wp-content/asset/"/>
   <meta name="og:title" content="Herototo: Slot Gacor Malam ini & Slot88 Judi Terpercaya Hari ini" />
   <meta name="og:type" content="product" />
   <meta name="og:image" content="https://i.imgur.com/gk4evjk.png" />
@@ -16,7 +16,7 @@
   <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdmod/im/5.0.103/index.css" />
   <link rel="stylesheet" href="https://g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css" desktopcss="true" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="canonical" href="https://solusiklik.co.id/wp-admin/asset/" />
+  <link rel="canonical" href="https://solusiklik.co.id/wp-content/asset/" />
   <link rel="shortcut icon" href="https://i.imgur.com/w6nNNEj.png" />
   <link rel="amphtml" href="https://ampherototo-terbaru.web.app/"/>
   <!-- start preload -->
@@ -579,7 +579,7 @@
 </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"Herototo: Slot Gacor Malam ini & Slot88 Judi Terpercaya Hari ini","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://solusiklik.co.id/wp-admin/asset/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"Herototo adalah bagian menjadi situs slot gacor malam ini dengan bermain dengan mudah melalui provider slot88 pasti nya terpercaya hari ini.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"Herototo: Slot Gacor Malam ini & Slot88 Judi Terpercaya Hari ini","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://solusiklik.co.id/wp-content/asset/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"Herototo adalah bagian menjadi situs slot gacor malam ini dengan bermain dengan mudah melalui provider slot88 pasti nya terpercaya hari ini.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script type="application/ld+json" data-rh="true">
       {
@@ -589,35 +589,35 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://solusiklik.co.id/wp-admin/asset/",
+            "@id": "https://solusiklik.co.id/wp-content/asset/",
             "name": "HEROTOTO"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://solusiklik.co.id/wp-admin/asset/",
+            "@id": "https://solusiklik.co.id/wp-content/asset/",
             "name": "HEROTOTO"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://solusiklik.co.id/wp-admin/asset/",
+            "@id": "https://solusiklik.co.id/wp-content/asset/",
             "name": "HEROTOTO"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://solusiklik.co.id/wp-admin/asset/",
+            "@id": "https://solusiklik.co.id/wp-content/asset/",
             "name": "HEROTOTO"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://solusiklik.co.id/wp-admin/asset/",
+            "@id": "https://solusiklik.co.id/wp-content/asset/",
             "name": "Herototo: Slot Gacor Malam ini & Slot88 Judi Terpercaya Hari ini"
           }
         }]
@@ -720,10 +720,10 @@
                     <a class="highlight" target="_blank" href="https://emang.dewaular.com" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">SEO KAMPUNGAN</a>
                 </div>
                   <div class="top-links-item" id="topActionFeedback" style="display: none;">
-                      <a class="highlight" target="_blank" href="https://solusiklik.co.id/wp-admin/asset/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">LINK SLOT GACOR</a>
+                      <a class="highlight" target="_blank" href="https://solusiklik.co.id/wp-content/asset/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">LINK SLOT GACOR</a>
                   </div>
                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                        <a class="highlight" target="_blank" href="https://solusiklik.co.id/wp-admin/asset/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">SLOT GACOR MALAM INI</a>
+                        <a class="highlight" target="_blank" href="https://solusiklik.co.id/wp-content/asset/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">SLOT GACOR MALAM INI</a>
                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
   <div class="top-popup-content lzd-download-content">
     <div class="get-the-app-scope">
@@ -758,10 +758,10 @@
 <div class="success-message" id="topActionDownloadSuccessMsg"><span class="alert alert-success">Success! Please check your phone for the download link  </span></div>
 <div class="error-message" id="topActionDownloadErrorMsg"></div>
         <div class="app-stores">
-          <a href="https://solusiklik.co.id/wp-admin/asset/" class="store-link">
+          <a href="https://solusiklik.co.id/wp-content/asset/" class="store-link">
             <i class="app-apple"></i>
           </a>
-          <a href="https://solusiklik.co.id/wp-admin/asset/" class="store-link">
+          <a href="https://solusiklik.co.id/wp-content/asset/" class="store-link">
             <i class="app-google"></i>
           </a>
         </div>
@@ -771,7 +771,7 @@
 </div>
                     </div>
                 <div class="top-links-item" id="topActionSell">
-                    <a class="cyan" href="https://solusiklik.co.id/wp-admin/asset/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">LINK SLOT GACOR</a>
+                    <a class="cyan" href="https://solusiklik.co.id/wp-content/asset/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">LINK SLOT GACOR</a>
                 </div>
                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
                       <span>customer care</span>
@@ -894,14 +894,14 @@
         </div>
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="https://solusiklik.co.id/wp-admin/asset/" data-spm="dhome"><img src="https://herototo.sbs/images/logoweb.png" alt="Logo Lazada.co.id Toko Online Indonesia"></a></div>
+              <div class="lzd-logo-content"><a href="https://solusiklik.co.id/wp-content/asset/" data-spm="dhome"><img src="https://herototo.sbs/images/logoweb.png" alt="Logo Lazada.co.id Toko Online Indonesia"></a></div>
               <div class="lzd-nav-search " data-spm="search"><div class="layout-search-box--qK-K"><form action="//www.lazada.co.id/catalog/" method="GET" autocomplete="off"><div class="search-box--2I2a"><div class="search-box__bar--29h6"><input type="search" id="q" name="q" placeholder="Cari di Lazada" class="search-box__input--O34g" tabindex="1" value="" /><input type="hidden" name="_keyori" value="ss" /><input type="hidden" name="from" value="input" /><input type="hidden" name="spm" value="..search.go." /></div><div class="search-box__search--2fC5"><a href="//www.lazada.co.id/catalog/?q=" class="search-box__button--1oH7" tabindex="2" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go" referrerpolicy="origin">Cari</a></div></div></form><div class="hotBorder--3N6k"></div></div></div>
                 <div class="lzd-nav-menu-redmart" style="display: none;">
   <div class="mui-zebra-module" id="J_icms-5000527-1511531232618" data-module-id="icms-5000527-1511531232618" data-version="5.0.83" data-spm="icms-5000527-1511531232618">
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://solusiklik.co.id/wp-admin/asset/">
+            <a href="https://solusiklik.co.id/wp-content/asset/">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -1936,7 +1936,7 @@
             </div>
         </div>
         <nav class="lzd-menu-labels" data-spm="menu">
-            <a class="lzd-menu-labels-item" href="https://solusiklik.co.id/wp-admin/asset/">
+            <a class="lzd-menu-labels-item" href="https://solusiklik.co.id/wp-content/asset/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
                 </span>
@@ -1950,7 +1950,7 @@
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                         <span class="lzd-menu-labels-item-text">herototo Login</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://solusiklik.co.id/wp-admin/asset/">
+            <a class="lzd-menu-labels-item" href="https://solusiklik.co.id/wp-content/asset/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
                 </span>
@@ -1982,7 +1982,7 @@
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://solusiklik.co.id/wp-admin/asset/">
+            <a href="https://solusiklik.co.id/wp-content/asset/">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -3024,21 +3024,21 @@
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                 <span class="lzd-menu-labels-item-text">LazMall</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://solusiklik.co.id/wp-admin/asset/">
+            <a class="lzd-menu-labels-item" href="https://solusiklik.co.id/wp-content/asset/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                         <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://solusiklik.co.id/wp-admin/asset/">
+            <a class="lzd-menu-labels-item" href="https://solusiklik.co.id/wp-content/asset/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://solusiklik.co.id/wp-admin/asset/">
+            <a class="lzd-menu-labels-item" href="https://solusiklik.co.id/wp-content/asset/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
                 </span>
@@ -3341,9 +3341,9 @@ if (!lzdDocCookies.getItem('t_uid')) {
         <a href="https://emang.dewaular.com" rel="nofollow noreferrer" target="_blank" class="login">LOGIN</a>
         </div>  
       
-    <div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="Herototo: Slot Gacor Malam ini & Slot88 Judi Terpercaya Hari ini" src="https://i.imgur.com/gk4evjk.png"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Herototo: Slot Gacor Malam ini & Slot88 Judi Terpercaya Hari ini</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">10.646.778 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://solusiklik.co.id/wp-admin/asset/">HEROTOTO</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
+    <div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="Herototo: Slot Gacor Malam ini & Slot88 Judi Terpercaya Hari ini" src="https://i.imgur.com/gk4evjk.png"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Herototo: Slot Gacor Malam ini & Slot88 Judi Terpercaya Hari ini</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">10.646.778 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://solusiklik.co.id/wp-content/asset/">HEROTOTO</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
 	
-<p>Herototo kini telah hadir dengan permainan situs judi <a href="https://solusiklik.co.id/wp-admin/asset/">slot gacor malam ini</a> dengan permainan yang sangat lengkap dan tentram, dengan permainan yang begitu banyak kini pihak herototo telah bersedia menjadi pelayanan provider slot88 sebagai judi slot gacor malam ini dengan versi terbaru dan terbaiknya yang selalu memberikan upgrade kenyamanan dan kemudahan seperti bocoran pola dan rtp yang sudah pasti gacor hari ini.</p>
+<p>Herototo kini telah hadir dengan permainan situs judi <a href="https://solusiklik.co.id/wp-content/asset/">slot gacor malam ini</a> dengan permainan yang sangat lengkap dan tentram, dengan permainan yang begitu banyak kini pihak herototo telah bersedia menjadi pelayanan provider slot88 sebagai judi slot gacor malam ini dengan versi terbaru dan terbaiknya yang selalu memberikan upgrade kenyamanan dan kemudahan seperti bocoran pola dan rtp yang sudah pasti gacor hari ini.</p>
 
 
   </div>
