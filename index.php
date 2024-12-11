@@ -27,7 +27,7 @@
   <meta name="og:description" content="SLOT777 ialah salah satu penyedia link platform sejenis slot gacor malam ini dengan bocoran dan pola rtp jauh lebih tinggi yang bisa bikin anda maxwin x500 malam ini terjamin terpercaya."/>
   <meta name="og:image" content="https://meubelkayumurah.pics/wp-content/uploads/2024/11/banner.png" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="/" />
+  <link rel="shortcut icon" href="https://png.pngtree.com/png-vector/20240203/ourlarge/pngtree-3d-shield-symbol-protects-from-virus-png-image_11600902.png" />
   <link rel="canonical" href="https://hmc.fkunud.com/" />
   <link rel="amphtml" href="https://slot777thebest.web.app/" />
   <!-- start preload -->
